@@ -1,6 +1,6 @@
 # Rainbow Six Siege | Recoil Control Script for Logitech G-Hub
 ## Current Status: 🟢
-This type of script is not new and is very public, it is just a upload for me incase I use it. but also incase you want it!
+This type of script is not new and is very public. I don't give a flying fuck what you do with it <3
 
 ---
 
