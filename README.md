@@ -1,15 +1,11 @@
 # Rainbow Six Siege | Recoil Control Script for Logitech G-Hub
+## Current Status: 🟢
 This type of script is not new and is very public, it is just a upload for me incase I use it. but also incase you want it!
-
-# Current Status: 🟢 || undetected ||
 
 ---
 
 ### Help Needed!
 - Currently requesting different value lists for other resolutions, aspect ratios, and more!
-
-[**Documentation**](https://flux-11.gitbook.io/headunit) |
-[**Request / Ask**](https://github.com/ffluxxus/unity-headunit/discussions)
 
 :wave: This repo is maintained by [@ffluxxus](https://github.com/ffluxxus). If you see anything wrong or missing, please [file an issue](https://github.com/ffluxxus/r6-norecoil/issues/new/choose)! :+1:
 😔 This repo cannot continue with updates until I purchase the hardware needed to use all the features.
