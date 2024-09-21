@@ -27,8 +27,7 @@ R6 NoRecoil is a Logitech G Hub Lua Script to remove recoil from Rainbow Six Sie
 
 ### Supported systems
  - Devices: `Any Logitech Mouse Recognized in G-Hub`
- - Settings: `1440p, 90FOV, 4:3` *you will have to get your own input values for other types, its not that hard though. ask in issues and I can help you.*
- - Frame Rate: `Greater than 70FPS` *ideal, G-Hub cannot properly control when the game is running lower then 60FPS*
+ - Frame Rate: `Greater than 60FPS` *ideal, G-Hub cannot properly control when the game is running lower then 60FPS*
 
 ### Requirements
  - [Logitech G-Hub](https://www.logitechg.com/en-us/innovation/g-hub.html)
