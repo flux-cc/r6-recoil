@@ -5,9 +5,6 @@ This type of script is not new and is very public. I don't give a flying fuck wh
 
 ---
 
-### Help Needed!
-- Currently requesting different value lists for other resolutions, aspect ratios, and more!
-
 :wave: This repo is maintained by [@ffluxxus](https://github.com/ffluxxus). If you see anything wrong or missing, please [file an issue](https://github.com/ffluxxus/r6-norecoil/issues/new/choose)! :+1:
 😔 This repo cannot continue with updates until I purchase the hardware needed to use all the features.
 
